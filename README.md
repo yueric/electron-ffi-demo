@@ -16,6 +16,10 @@ electron 通过ffi 调用 dll的函数
 7. 安装ffi插件npm install ffi —save
 8. 执行：.\node_modules.bin\electron-rebuild .\node_modules\ffi\
 
+本项目运行
+npm i
+npm start
+
 
 注意事项：
 生成的dll里的调用函数需要设为导出函数
